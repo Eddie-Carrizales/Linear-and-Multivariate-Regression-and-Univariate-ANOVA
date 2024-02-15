@@ -2,6 +2,7 @@
 
 #Linear Regression and Univariate ANOVA
 Given: <br />
+
 ![Given1](https://github.com/Eddie-Carrizales/Linear-and-Multivariate-Regression-and-Univariate-ANOVA/blob/main/Images/Given1.png)
 
 Find:  <br />
@@ -25,6 +26,7 @@ Find:  <br />
 &nbsp;&nbsp;&nbsp;o The 𝑅2 as a percentage.  <br />
 
 Results: <br />
+
 ![Results1](https://github.com/Eddie-Carrizales/Linear-and-Multivariate-Regression-and-Univariate-ANOVA/blob/main/Images/Results1.png)
 ![Results2](https://github.com/Eddie-Carrizales/Linear-and-Multivariate-Regression-and-Univariate-ANOVA/blob/main/Images/Results2.png)
 ![Results3](https://github.com/Eddie-Carrizales/Linear-and-Multivariate-Regression-and-Univariate-ANOVA/blob/main/Images/Results3.png)
@@ -56,6 +58,7 @@ Find:  <br />
 &nbsp;&nbsp;&nbsp;o The 𝑅2 as a percentage.  <br />
 
 Results: <br />
-![Results4](https://github.com/Eddie-Carrizales/Linear-and-Multivariate-Regression-and-Univariate-ANOVA/blob/main/Images/Results4.png)
-![Results5](https://github.com/Eddie-Carrizales/Linear-and-Multivariate-Regression-and-Univariate-ANOVA/blob/main/Images/Results5.png)
-![Results6](https://github.com/Eddie-Carrizales/Linear-and-Multivariate-Regression-and-Univariate-ANOVA/blob/main/Images/Results6.png)
+
+![Results4](https://github.com/Eddie-Carrizales/Linear-and-Multivariate-Regression-and-Univariate-ANOVA/blob/main/Images/Results4.png) <br />
+![Results5](https://github.com/Eddie-Carrizales/Linear-and-Multivariate-Regression-and-Univariate-ANOVA/blob/main/Images/Results5.png) <br />
+![Results6](https://github.com/Eddie-Carrizales/Linear-and-Multivariate-Regression-and-Univariate-ANOVA/blob/main/Images/Results6.png) <br />
