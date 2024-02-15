@@ -1,8 +1,8 @@
 # Linear and Multivariate Regression, and Univariate ANOVA
 
 #Linear Regression and Univariate ANOVA
-Given:
-![Given1]()
+Given: <br />
+![Given1](https://github.com/Eddie-Carrizales/Linear-and-Multivariate-Regression-and-Univariate-ANOVA/blob/main/Images/Given1.png)
 
 Find:  <br />
 • About the Input  <br /> 
@@ -24,8 +24,10 @@ Find:  <br />
 &nbsp;&nbsp;&nbsp;o The F value.  <br />
 &nbsp;&nbsp;&nbsp;o The 𝑅2 as a percentage.  <br />
 
-Results:
-![Results1]()
+Results: <br />
+![Results1](https://github.com/Eddie-Carrizales/Linear-and-Multivariate-Regression-and-Univariate-ANOVA/blob/main/Images/Results1.png)
+![Results2](https://github.com/Eddie-Carrizales/Linear-and-Multivariate-Regression-and-Univariate-ANOVA/blob/main/Images/Results2.png)
+![Results3](https://github.com/Eddie-Carrizales/Linear-and-Multivariate-Regression-and-Univariate-ANOVA/blob/main/Images/Results3.png)
 
 ## Multivariate Regression
 
@@ -37,7 +39,7 @@ occurs when the temperature is above freezing, the icicle melts and has a length
 The first predictor is the day of the month. The second predictor is the air temperature in
 Fahrenheit. The observations are the length of the icicle.
 
-![Given1]()
+![Given2](https://github.com/Eddie-Carrizales/Linear-and-Multivariate-Regression-and-Univariate-ANOVA/blob/main/Images/Given2.png)
 
 Find:  <br />
 • Find the formula:  <br />
@@ -53,7 +55,7 @@ Find:  <br />
 &nbsp;&nbsp;&nbsp;o F  <br />
 &nbsp;&nbsp;&nbsp;o The 𝑅2 as a percentage.  <br />
 
-Results:
-![Results2]()
-![Results3]()
-![Results4]()
+Results: <br />
+![Results4](https://github.com/Eddie-Carrizales/Linear-and-Multivariate-Regression-and-Univariate-ANOVA/blob/main/Images/Results4.png)
+![Results5](https://github.com/Eddie-Carrizales/Linear-and-Multivariate-Regression-and-Univariate-ANOVA/blob/main/Images/Results5.png)
+![Results6](https://github.com/Eddie-Carrizales/Linear-and-Multivariate-Regression-and-Univariate-ANOVA/blob/main/Images/Results6.png)
